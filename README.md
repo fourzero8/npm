@@ -1,0 +1,2 @@
+# npm
+own pacaage 
